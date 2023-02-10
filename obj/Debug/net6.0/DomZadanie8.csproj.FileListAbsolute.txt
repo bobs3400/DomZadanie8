@@ -1,0 +1,15 @@
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 1\DomZadanie8\obj\Debug\net6.0\DomZadanie8.csproj.AssemblyReference.cache
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 1\DomZadanie8\obj\Debug\net6.0\DomZadanie8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 1\DomZadanie8\obj\Debug\net6.0\DomZadanie8.AssemblyInfoInputs.cache
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 1\DomZadanie8\obj\Debug\net6.0\DomZadanie8.AssemblyInfo.cs
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 1\DomZadanie8\obj\Debug\net6.0\DomZadanie8.csproj.CoreCompileInputs.cache
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 1\DomZadanie8\bin\Debug\net6.0\DomZadanie8.exe
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 1\DomZadanie8\bin\Debug\net6.0\DomZadanie8.deps.json
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 1\DomZadanie8\bin\Debug\net6.0\DomZadanie8.runtimeconfig.json
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 1\DomZadanie8\bin\Debug\net6.0\DomZadanie8.dll
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 1\DomZadanie8\bin\Debug\net6.0\DomZadanie8.pdb
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 1\DomZadanie8\obj\Debug\net6.0\DomZadanie8.dll
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 1\DomZadanie8\obj\Debug\net6.0\refint\DomZadanie8.dll
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 1\DomZadanie8\obj\Debug\net6.0\DomZadanie8.pdb
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 1\DomZadanie8\obj\Debug\net6.0\DomZadanie8.genruntimeconfig.cache
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 1\DomZadanie8\obj\Debug\net6.0\ref\DomZadanie8.dll
